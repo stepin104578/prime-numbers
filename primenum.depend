@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1597244277 source:e:\ltts\programming in c and unit testing\programs\primenum\main.c
+	"test_primenum.h"
+
+1597250286 source:e:\ltts\programming in c and unit testing\programs\primenum\test\test_primenum.c
+	"unity.h"
+	"primenum.h"
+
+1597052165 e:\ltts\programming in c and unit testing\programs\primenum\unity\unity.h
+	"unity_internals.h"
+
+1597052165 e:\ltts\programming in c and unit testing\programs\primenum\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597250276 e:\ltts\programming in c and unit testing\programs\primenum\inc\primenum.h
+
+1597250276 source:e:\ltts\programming in c and unit testing\programs\primenum\src\primenum.c
+	"primenum.h"
+
+1597052165 source:e:\ltts\programming in c and unit testing\programs\primenum\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597243477 e:\ltts\programming in c and unit testing\programs\primenum\test\test_primenum.h
+
